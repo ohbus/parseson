@@ -41,7 +41,7 @@ public class JSONWrite
 		
 		m = new LinkedHashMap(2); 
 		m.put("type", "webiste"); 
-		m.put("number", "subho.xyz"); 
+		m.put("value", "subho.xyz"); 
 		
 		// adding map to list 
 		ja.add(m); 
