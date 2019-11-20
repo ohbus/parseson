@@ -1,0 +1,21 @@
+{
+    "firstName": "Subhrodip",
+    "lastName": "Mohanta",
+    "address": {
+        "streetAddress": "subho.xyz",
+        "city": "Kolkata",
+        "state": "WB",
+        "postalCode": 700001
+    },
+    "age": 21,
+    "phoneNumbers": [
+        {
+            "type": "mobile",
+            "number": "9007400495"
+        },
+        {
+            "type": "webiste",
+            "number": "subho.xyz"
+        }
+    ]
+}
