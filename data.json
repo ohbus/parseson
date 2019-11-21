@@ -1,0 +1,23 @@
+{
+    "Rack": [
+        {
+            "rackcd": "",
+            "pdu": [
+                {
+                    "hw_asset_cd": "",
+                    "sockets": [
+                        {
+                            "socket_cd": "",
+                            "data_cntr_cd": "",
+                            "ref_rack_cd": "",
+                            "ref_pdu_cd": "",
+                            "hw_asset_cd": "",
+                            "socket_device_name": "",
+                            "is_socket": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

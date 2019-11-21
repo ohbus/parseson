@@ -55,3 +55,6 @@ public class JSONRead
 		} 
 	} 
 } 
+
+//compile	= javac -cp ".:./jars/json-simple-1.1.jar" JSONWrite.java 
+//run		= java -cp ".:./jars/json-simple-1.1.jar" JSONWrite
