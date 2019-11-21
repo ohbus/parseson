@@ -6,15 +6,31 @@
                 {
                     "hw_asset_cd": "",
                     "sockets": [
-                        {
-                            "socket_cd": "",
-                            "data_cntr_cd": "",
-                            "ref_rack_cd": "",
-                            "ref_pdu_cd": "",
-                            "hw_asset_cd": "",
-                            "socket_device_name": "",
-                            "is_socket": ""
-                        }
+                        [
+                            "ncm_socket mstr": {
+                                "socket_cd": "",
+                                "data_cntr_cd": "",
+                                "ref_rack_cd": "",
+                                "ref_pdu_cd": "",
+                                "hw_asset_cd": "",
+                                "socket_device_name": "",
+                                "is_socket": "Y"
+                            },
+                            "mib_details_non_os": {
+                                "mib_id": "",
+                                "make": "",
+                                "model": "",
+                                "sensor_oem": "NULL",
+                                "device_unit": "",
+                                "rval_mode": "",
+                                "oid": "",
+                                "parameter_unit": ""
+                            },
+                            "hw_tmp_reg": {},
+                            "hw_reg_mstr": {},
+                            "ncm_oth_mstr": {},
+                            "snmp_disc": {}
+                        ]
                     ]
                 }
             ]
