@@ -1,0 +1,29 @@
+[
+	{
+		"socket_cd" : "NCM0003",
+		"data_cntr_cd" : "DC0001",
+		"ref_rack_cd" : "NCR0001",
+		"ref_pdu_cd" : "NCM0001",
+		"hw_asset_cd" : "HW0004",
+		"socket_device_nm" : "PDU_1S0",
+		"is_socket" : "Y"
+	},
+	{
+		"socket_cd" : "NCM0004",
+		"data_cntr_cd" : "DC0001",
+		"ref_rack_cd" : "NCR0001",
+		"ref_pdu_cd" : "NCM0001",
+		"hw_asset_cd" : "HW0005",
+		"socket_device_nm" : "PDU_1S1",
+		"is_socket" : "Y"
+	},
+	{
+		"socket_cd" : "NCM0005",
+		"data_cntr_cd" : "DC0001",
+		"ref_rack_cd" : "NCR0001",
+		"ref_pdu_cd" : "NCM0002",
+		"hw_asset_cd" : "HW0006",
+		"socket_device_nm" : "PDU_1S1",
+		"is_socket" : "Y"
+	}
+]

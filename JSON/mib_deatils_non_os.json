@@ -1,0 +1,762 @@
+[
+	{
+		"MIB_ID" : 393,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 50,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.4.1.0",
+		"PARAMETER_UNIT" : "%"
+	},
+	{
+		"MIB_ID" : 394,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 219,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.6.1.0",
+		"PARAMETER_UNIT" : "DegC"
+	},
+	{
+		"MIB_ID" : 395,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 49,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.2.2.0",
+		"PARAMETER_UNIT" : "V/10"
+	},
+	{
+		"MIB_ID" : 396,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 52,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.2.1.0",
+		"PARAMETER_UNIT" : "sec"
+	},
+	{
+		"MIB_ID" : 400,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 48,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.2.3.0",
+		"PARAMETER_UNIT" : "A"
+	},
+	{
+		"MIB_ID" : 406,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 121,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.4.1.534.1.3.1.0",
+		"PARAMETER_UNIT" : "MHz"
+	},
+	{
+		"MIB_ID" : 504,
+		"MAKE" : "demo",
+		"MODEL" : "Test_PDU_Mdl",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 1,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.77.1.2.22.0",
+		"PARAMETER_UNIT" : "V"
+	},
+	{
+		"MIB_ID" : 505,
+		"MAKE" : "demo",
+		"MODEL" : "Test_PDU_Mdl",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 9,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.77.1.2.24.0",
+		"PARAMETER_UNIT" : "A"
+	},
+	{
+		"MIB_ID" : 507,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 17,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.4.1.534.1.4.4.1.4.1",
+		"PARAMETER_UNIT" : "W"
+	},
+	{
+		"MIB_ID" : 508,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 238,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.4.2.0",
+		"PARAMETER_UNIT" : "MHz"
+	},
+	{
+		"MIB_ID" : 509,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 252,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.2.5.0",
+		"PARAMETER_UNIT" : " "
+	},
+	{
+		"MIB_ID" : 510,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 86,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.3.4.1.2.1",
+		"PARAMETER_UNIT" : "V"
+	},
+	{
+		"MIB_ID" : 511,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 87,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.3.4.1.2.2",
+		"PARAMETER_UNIT" : "V"
+	},
+	{
+		"MIB_ID" : 512,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 88,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.3.4.1.2.3",
+		"PARAMETER_UNIT" : "V"
+	},
+	{
+		"MIB_ID" : 513,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 125,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.3.4.1.3.1",
+		"PARAMETER_UNIT" : "A"
+	},
+	{
+		"MIB_ID" : 514,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 126,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.3.4.1.3.2",
+		"PARAMETER_UNIT" : "A"
+	},
+	{
+		"MIB_ID" : 515,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 127,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.3.4.1.3.3",
+		"PARAMETER_UNIT" : "A"
+	},
+	{
+		"MIB_ID" : 516,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 128,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.3.4.1.4.1",
+		"PARAMETER_UNIT" : "W"
+	},
+	{
+		"MIB_ID" : 517,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 129,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.3.4.1.4.2",
+		"PARAMETER_UNIT" : "W"
+	},
+	{
+		"MIB_ID" : 518,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 130,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.3.4.1.4.3",
+		"PARAMETER_UNIT" : "W"
+	},
+	{
+		"MIB_ID" : 519,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 213,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.3.5.0",
+		"PARAMETER_UNIT" : " "
+	},
+	{
+		"MIB_ID" : 520,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 136,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.4.4.1.3.3",
+		"PARAMETER_UNIT" : "A"
+	},
+	{
+		"MIB_ID" : 521,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 214,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.4.5.0",
+		"PARAMETER_UNIT" : " "
+	},
+	{
+		"MIB_ID" : 522,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 215,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.5.1.0",
+		"PARAMETER_UNIT" : "MHz"
+	},
+	{
+		"MIB_ID" : 523,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 216,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.5.3.1.2.1",
+		"PARAMETER_UNIT" : "V"
+	},
+	{
+		"MIB_ID" : 524,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 217,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.5.3.1.2.2",
+		"PARAMETER_UNIT" : "V"
+	},
+	{
+		"MIB_ID" : 525,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 218,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.5.3.1.2.3",
+		"PARAMETER_UNIT" : "V"
+	},
+	{
+		"MIB_ID" : 526,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 220,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.6.5.0",
+		"PARAMETER_UNIT" : "DegC"
+	},
+	{
+		"MIB_ID" : 527,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 221,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.6.6.0",
+		"PARAMETER_UNIT" : "%"
+	},
+	{
+		"MIB_ID" : 528,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 222,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.6.8.1.2.1",
+		"PARAMETER_UNIT" : " "
+	},
+	{
+		"MIB_ID" : 529,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 223,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.6.8.1.2.2",
+		"PARAMETER_UNIT" : " "
+	},
+	{
+		"MIB_ID" : 530,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 224,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.6.8.1.3.1",
+		"PARAMETER_UNIT" : " "
+	},
+	{
+		"MIB_ID" : 531,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 225,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.6.8.1.3.2",
+		"PARAMETER_UNIT" : ""
+	},
+	{
+		"MIB_ID" : 532,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 220,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.4.1.534.6.7.1.1.3.2.1.3.1",
+		"PARAMETER_UNIT" : "DegC"
+	},
+	{
+		"MIB_ID" : 533,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 226,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.4.1.534.6.7.1.1.3.2.1.3.2",
+		"PARAMETER_UNIT" : "DegC"
+	},
+	{
+		"MIB_ID" : 534,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 221,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.4.1.534.6.7.1.1.3.2.1.5.1",
+		"PARAMETER_UNIT" : "%"
+	},
+	{
+		"MIB_ID" : 535,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 227,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.4.1.534.6.7.1.1.3.2.1.5.2",
+		"PARAMETER_UNIT" : "%"
+	},
+	{
+		"MIB_ID" : 536,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 228,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.4.1.534.6.7.1.1.3.2.1.7.1",
+		"PARAMETER_UNIT" : ""
+	},
+	{
+		"MIB_ID" : 537,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 229,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.4.1.534.6.7.1.1.3.2.1.7.2",
+		"PARAMETER_UNIT" : ""
+	},
+	{
+		"MIB_ID" : 538,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 230,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.4.1.534.6.7.1.1.3.2.1.8.1",
+		"PARAMETER_UNIT" : ""
+	},
+	{
+		"MIB_ID" : 539,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 231,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.4.1.534.6.7.1.1.3.2.1.8.2",
+		"PARAMETER_UNIT" : ""
+	},
+	{
+		"MIB_ID" : 540,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 212,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.2.1.0",
+		"PARAMETER_UNIT" : ""
+	},
+	{
+		"MIB_ID" : 541,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 232,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.2.2.0",
+		"PARAMETER_UNIT" : "sec"
+	},
+	{
+		"MIB_ID" : 542,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 52,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.2.3.0",
+		"PARAMETER_UNIT" : "min"
+	},
+	{
+		"MIB_ID" : 543,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 233,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.2.4.0",
+		"PARAMETER_UNIT" : "%"
+	},
+	{
+		"MIB_ID" : 544,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 49,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.2.5.0",
+		"PARAMETER_UNIT" : "V/10"
+	},
+	{
+		"MIB_ID" : 545,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 48,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.2.6.0",
+		"PARAMETER_UNIT" : "A"
+	},
+	{
+		"MIB_ID" : 546,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 89,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.2.7.0",
+		"PARAMETER_UNIT" : "DegC"
+	},
+	{
+		"MIB_ID" : 547,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 121,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.3.3.1.2.1",
+		"PARAMETER_UNIT" : "Hz"
+	},
+	{
+		"MIB_ID" : 548,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 234,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.3.3.1.3.1",
+		"PARAMETER_UNIT" : "V"
+	},
+	{
+		"MIB_ID" : 549,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 235,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.3.3.1.4.1",
+		"PARAMETER_UNIT" : "A"
+	},
+	{
+		"MIB_ID" : 550,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 236,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.3.3.1.5.1",
+		"PARAMETER_UNIT" : "W"
+	},
+	{
+		"MIB_ID" : 551,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 237,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.4.1.0",
+		"PARAMETER_UNIT" : ""
+	},
+	{
+		"MIB_ID" : 552,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 238,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.4.2.0",
+		"PARAMETER_UNIT" : "Hz"
+	},
+	{
+		"MIB_ID" : 553,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 239,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.4.4.1.2.1",
+		"PARAMETER_UNIT" : "V"
+	},
+	{
+		"MIB_ID" : 554,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 240,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.4.4.1.3.1",
+		"PARAMETER_UNIT" : "A"
+	},
+	{
+		"MIB_ID" : 555,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 241,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.4.4.1.4.1",
+		"PARAMETER_UNIT" : "W"
+	},
+	{
+		"MIB_ID" : 556,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 242,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.4.4.1.5.1",
+		"PARAMETER_UNIT" : "%"
+	},
+	{
+		"MIB_ID" : 557,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 215,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.5.1.0",
+		"PARAMETER_UNIT" : "Hz"
+	},
+	{
+		"MIB_ID" : 558,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 243,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.5.3.1.2.1",
+		"PARAMETER_UNIT" : "V"
+	},
+	{
+		"MIB_ID" : 559,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 244,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.5.3.1.3.1",
+		"PARAMETER_UNIT" : "A"
+	},
+	{
+		"MIB_ID" : 560,
+		"MAKE" : "Eaton",
+		"MODEL" : "Generic",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 245,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.2.1.33.1.5.3.1.4.1",
+		"PARAMETER_UNIT" : "W"
+	},
+	{
+		"MIB_ID" : 561,
+		"MAKE" : "Eaton",
+		"MODEL" : "MGE",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 246,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.4.1.705.1.5.1.0",
+		"PARAMETER_UNIT" : "sec"
+	},
+	{
+		"MIB_ID" : 562,
+		"MAKE" : "Eaton",
+		"MODEL" : "MGE",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 51,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.4.1.705.1.5.2.0",
+		"PARAMETER_UNIT" : "%"
+	},
+	{
+		"MIB_ID" : 563,
+		"MAKE" : "Eaton",
+		"MODEL" : "MGE",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 49,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.4.1.705.1.5.5.0",
+		"PARAMETER_UNIT" : "V/10"
+	},
+	{
+		"MIB_ID" : 564,
+		"MAKE" : "Eaton",
+		"MODEL" : "MGE",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 48,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.4.1.705.1.5.6.0",
+		"PARAMETER_UNIT" : "A"
+	},
+	{
+		"MIB_ID" : 565,
+		"MAKE" : "Eaton",
+		"MODEL" : "MGE",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 247,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.4.1.705.1.5.9.0",
+		"PARAMETER_UNIT" : " "
+	},
+	{
+		"MIB_ID" : 566,
+		"MAKE" : "Eaton",
+		"MODEL" : "MGE",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 248,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.4.1.705.1.5.11.0",
+		"PARAMETER_UNIT" : " "
+	},
+	{
+		"MIB_ID" : 567,
+		"MAKE" : "Eaton",
+		"MODEL" : "MGE",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 249,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.4.1.705.1.5.14.0",
+		"PARAMETER_UNIT" : " "
+	},
+	{
+		"MIB_ID" : 568,
+		"MAKE" : "Eaton",
+		"MODEL" : "MGE",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 250,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : "1.3.6.1.4.1.705.1.5.15.0",
+		"PARAMETER_UNIT" : " "
+	},
+	{
+		"MIB_ID" : 569,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 251,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.2.4.0",
+		"PARAMETER_UNIT" : "%"
+	},
+	{
+		"MIB_ID" : 570,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 131,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.4.4.1.2.1",
+		"PARAMETER_UNIT" : "V"
+	},
+	{
+		"MIB_ID" : 571,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 134,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.4.4.1.3.1",
+		"PARAMETER_UNIT" : "A"
+	},
+	{
+		"MIB_ID" : 572,
+		"MAKE" : "Eaton",
+		"MODEL" : "Eaton",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 208,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.534.1.7.1.0",
+		"PARAMETER_UNIT" : " "
+	},
+	{
+		"MIB_ID" : 573,
+		"MAKE" : "demo",
+		"MODEL" : "Test_PDU_Mdl",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 17,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.77.1.2.15.0",
+		"PARAMETER_UNIT" : "kW"
+	},
+	{
+		"MIB_ID" : 574,
+		"MAKE" : "demo0",
+		"MODEL" : "Test_PDU_Mdl0",
+		"SENSOR_OEM" : null,
+		"DEVICE_UNIT" : 16,
+		"RVAL_MODE" : "UUID_BASED",
+		"OID" : ".1.3.6.1.4.1.77.1.2.15.0",
+		"PARAMETER_UNIT" : "kW"
+	}
+]
