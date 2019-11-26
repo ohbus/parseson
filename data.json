@@ -39,10 +39,54 @@
                                 "ip_addr": ""
                             },
                             "hw_reg_mstr": {
-                                
+                                "hw_asset_cd": "",
+                                "hw_type": "Sockets",
+                                "create_by": "crane.admin@greenfieldsoft.com",
+                                "create_on": "2019-11-14",
+                                "modf_by": "crane.admin@greenfieldsoft.com",
+                                "modf_on": "2019-11-14",
+                                "hw_asset_nm": "",
+                                "hw_model_no": "",
+                                "hw_serial_id": "",
+                                "mfr_name": "",
+                                "cm_ncm_falg": "",
+                                "active_flag": "Y",
+                                "host_nm": ""
                             },
-                            "ncm_oth_mstr": {},
-                            "snmp_disc": {}
+                            "ncm_oth_mstr": {
+                                "ncm_oth_cd": "",
+                                "hw_asset_cd": "",
+                                "data_center_cd": "",
+                                "create_on": "2019-11-14",
+                                "create_by": "crane.admin@greenfieldsoft.com",
+                                "modf_on": "2019-11-14",
+                                "modf_by": "crane.admin@greenfieldsoft.com",
+                                "initial_price": "-1.00",
+                                "oth_device_nm": "",
+                                "in_volt": "",
+                                "alloc_flag": "",
+                                "ref_rack_cd": "",
+                                "rack_slot_no": "",
+                                "device_type": "",
+                                "capacity": ""
+                            },
+                            "snmp_disc": {
+                                "ip_addr": "",
+                                "date_time": "2019-11-14 16:31:09",
+                                "asset_nm": "",
+                                "hw_asset_cd": "",
+                                "make": "",
+                                "model": "",
+                                "disc_mode": "SNMP",
+                                "comm_string": "",
+                                "snmp_port": "161",
+                                "snmp_version": "2c",
+                                "data_cntr_cd": "",
+                                "cpu_start_index": "",
+                                "cpu_end_index": "",
+                                "snmpv3_auth_pwd": "9FFgaORTvtv/u3Pe3AXFFw==",
+                                "snmpv3_priv_pwd": "9FFgaORTvtv/u3Pe3AXFFw=="
+                            }
                         }
                     ]
                 }
