@@ -6,7 +6,7 @@
                 {
                     "hw_asset_cd": "",
                     "sockets": [
-                        [
+                        {
                             "ncm_socket mstr": {
                                 "socket_cd": "",
                                 "data_cntr_cd": "",
@@ -26,11 +26,24 @@
                                 "oid": "",
                                 "parameter_unit": ""
                             },
-                            "hw_tmp_reg": {},
-                            "hw_reg_mstr": {},
+                            "hw_tmp_reg": {
+                                "hw_type": "",
+                                "hw_sub_type": "",
+                                "host_nm": "",
+                                "hw_asset_tag": "",
+                                "hw_model_no": "",
+                                "hw_serial_id": "",
+                                "mfr_name": "",
+                                "cm_ncm_name": "",
+                                "create_date_time": "",
+                                "ip_addr": ""
+                            },
+                            "hw_reg_mstr": {
+                                
+                            },
                             "ncm_oth_mstr": {},
                             "snmp_disc": {}
-                        ]
+                        }
                     ]
                 }
             ]
