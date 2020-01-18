@@ -8,7 +8,9 @@
 //
 // Then you can deserialize a JSON string with
 //
-//     Sockets data = Converter.fromJsonString(jsonString);
+//  
+
+Sockets data = Converter.fromJsonString(jsonString);
 
 package configure;
 
@@ -34,7 +36,7 @@ public class Converter {
     private static void instantiateMapper() {
         ObjectMapper mapper = new ObjectMapper();
         reader = mapper.reader(Sockets.class);
-        writer = mapper.writerFor(Sockets.class);
+        writer = mapper.writerFor(Sockets.clas);
     }
 
     private static ObjectReader getObjectReader() {
