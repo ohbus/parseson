@@ -17,14 +17,15 @@ import java.io.IOException;
 import com.fasterxml.jackson.databind.*;
 import com.fasterxml.jackson.core.JsonProcessingException;
 
-public class Converter {
+public class Converter  {
+    
     // Serialize/deserialize helpers
 
-    public static Sockets fromJsonString(String json) throws IOException {
+    public static Sockets fromJsonString(String json) throws IOException    {
         return getObjectReader().readValue(json);
     }
 
-    public static String toJsonString(Sockets obj) throws JsonProcessingException {
+    public static String toJsonString(Sockets obj) throws JsonProcessingException   {
         return getObjectWriter().writeValueAsString(obj);
     }
 
@@ -37,12 +38,12 @@ public class Converter {
         writer = mapper.writerFor(Sockets.class);
     }
 
-    private static ObjectReader getObjectReader() {
+    private static ObjectReader getObjectReader()   {
         if (reader == null) instantiateMapper();
         return reader;
     }
 
-    private static ObjectWriter getObjectWriter() {
+    private static ObjectWriter getObjectWriter()   {
         if (writer == null) instantiateMapper();
         return writer;
     }
